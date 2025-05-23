@@ -6,7 +6,7 @@ I designed Kourier targeting enterprise network appliances/solutions and made it
 <br /><br />
 As I have zero social media usage, I wrote this page for anyone interested in Kourier and wanting to know more about me.
 <br /><br />
-I'm a mechanical engineer with almost a decade of experience in the oil industry, where I worked designing, testing, and constructing subsea equipment, a safety-critical field where the "fail fast, fail often" mantra does not apply.
+I'm a mechanical engineer with almost a decade of experience in the oil industry, where I worked designing, testing, and constructing subsea equipment, a safety-critical field where the *"fail fast, fail often"* mantra does not apply.
 <br /><br />
 In my [Masters Dissertation](https://kourier.io/files/dissertation.pdf), I wrote Fm@, a Fortran 90-based multibody simulator that automatically generated and solved the equations of motion for arbitrary mechanisms. I implemented an ODE solver based on a predictor-corrector Adams-Bashforth Adams-Moulton method with automatic adaptive step-size selection. Using OpenGL and the Win32 bindings provided by Compaq Visual Fortran, Fm@ allowed models to be built using a cad-like interface. At that time, I was astonished that Fm@ was much faster than MSC ADAMS, an enterprise multibody simulator used to validate the Fm@ solver.
 <br /><br />
