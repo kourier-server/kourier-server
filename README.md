@@ -1,8 +1,12 @@
 ## About Me
 
-Hi, I'm Glauco Pacheco, the creator of Kourier, the fastest, lightest, and 100% HTTP syntax-compliant server. As I have zero social media usage, I wrote this page for anyone interested in Kourier and wanting to know more about me.
+Hi, I'm Glauco Pacheco, the creator of Kourier, the fastest, lightest, and 100% HTTP syntax-compliant server. Kourier leaves all publicly available alternatives in the dust, as shown by the reproducible, container-based benchmarks in Kourier's repository.
 <br /><br />
-I'm a mechanical engineer with almost a decade of experience in the oil industry, where I worked designing, testing, and constructing subsea equipment, a safety-critical field where the *"fail fast, fail often"* mantra does not apply.
+I designed Kourier targeting enterprise network appliances/solutions and made it open source to allow businesses to assess Kourier's performance, reliability, and compliance.
+<br /><br />
+As I have zero social media usage, I wrote this page for anyone interested in Kourier and wanting to know more about me.
+<br /><br />
+I'm a mechanical engineer with almost a decade of experience in the oil industry, where I worked designing, testing, and constructing subsea equipment, a safety-critical field where the "fail fast, fail often" mantra does not apply.
 <br /><br />
 In my [Masters Dissertation](https://kourier.io/files/dissertation.pdf), I wrote Fm@, a Fortran 90-based multibody simulator that automatically generated and solved the equations of motion for arbitrary mechanisms. I implemented an ODE solver based on a predictor-corrector Adams-Bashforth Adams-Moulton method with automatic adaptive step-size selection. Using OpenGL and the Win32 bindings provided by Compaq Visual Fortran, Fm@ allowed models to be built using a cad-like interface. At that time, I was astonished that Fm@ was much faster than MSC ADAMS, an enterprise multibody simulator used to validate the Fm@ solver.
 <br /><br />
