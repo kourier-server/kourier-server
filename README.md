@@ -16,4 +16,4 @@ Passionate about programming, I applied my strong engineering mindset to softwar
 <br /><br />
 Before Kourier, I developed Cute, a communication framework that extended Qt's signals and slots to network programming. However, the most used feature of Cute was its support for HTTP-based communication. Also, the fact that Cute was closed-source was an overwhelming barrier to its adoption by larger companies. So, I changed its name, made it open source with the AGPL license, and changed its business model from subscription-based to a model based on code licensing.
 <br /><br />
-You can contact me at glauco@kourier.io if your Business wants to use Kourier under a license other than AGPL.
+You can contact me at glaucopacheco@msn.com if your Business wants to use Kourier under a license other than AGPL.
